@@ -1,9 +1,10 @@
 {
   "files": {
     "main.css": "/static/css/main.f3ce449f.css",
-    "main.js": "/static/js/main.ed06248d.js",
+    "main.js": "/static/js/main.2e13cb76.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
     "static/media/1.png": "/static/media/1.da4cdc15929448b82da4.png",
+    "static/media/lucyling_cv.pdf": "/static/media/lucyling_cv.2290f30558fba7210039.pdf",
     "static/media/10.png": "/static/media/10.909c6560f0992db08fb3.png",
     "static/media/11.png": "/static/media/11.36bf981a9e9935e9f07f.png",
     "static/media/5.png": "/static/media/5.fb439c8a435bc49a921b.png",
@@ -21,17 +22,16 @@
     "static/media/leisure.png": "/static/media/leisure.f77608df31cbaf9ab7bd.png",
     "static/media/myPic.jpeg": "/static/media/myPic.e2b550eb2478a5b26a7f.jpeg",
     "static/media/ar.jpg": "/static/media/ar.acd6368dc14fb6de77ef.jpg",
-    "static/media/linglong_cv.pdf": "/static/media/linglong_cv.d3a629f055578030454d.pdf",
     "static/media/old.png": "/static/media/old.07dea3692f61e3a7d00b.png",
     "static/media/girld.png": "/static/media/girld.60fce4d51c4aad76eb0d.png",
     "static/media/pre.svg": "/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/index.html",
     "main.f3ce449f.css.map": "/static/css/main.f3ce449f.css.map",
-    "main.ed06248d.js.map": "/static/js/main.ed06248d.js.map",
+    "main.2e13cb76.js.map": "/static/js/main.2e13cb76.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f3ce449f.css",
-    "static/js/main.ed06248d.js"
+    "static/js/main.2e13cb76.js"
   ]
 }
